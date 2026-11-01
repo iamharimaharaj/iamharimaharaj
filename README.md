@@ -1,116 +1,81 @@
 <!--
   GitHub Profile README for Hari Nepal (@iamharimaharaj)
-  This file belongs in a repository named exactly:  iamharimaharaj/iamharimaharaj
-  (A repo whose name matches your username renders its README on your profile page.)
-  Replace any PLACEHOLDER social links if needed.
+  Lives in repo: iamharimaharaj/iamharimaharaj
+  Brand: harinepal.com  —  bg #0B0B0F · text #F4F4F0 · accent #C8FF2E (lime)
 -->
 
-<h1 align="center">
-  Hi there 👋, I'm Hari Nepal
-</h1>
-
-<h3 align="center">Full-Stack Developer • Digital Marketer • Founder of DigitalXpand · Kathmandu 🇳🇵</h3>
+<h1 align="center">Hari&nbsp;Nepal</h1>
 
 <p align="center">
-  <a href="https://harinepal.com">
-    <img src="https://img.shields.io/badge/Portfolio-harinepal.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:hello@digitalxpand.com">
-    <img src="https://img.shields.io/badge/Email-hello@digitalxpand.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <code>Full-Stack Developer</code> &nbsp;✦&nbsp; <code>SEO Specialist</code> &nbsp;✦&nbsp; <code>Founder, DigitalXpand</code>
 </p>
 
+<p align="center">Freelance Web Designer &amp; SEO Specialist — Kathmandu, Nepal</p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamharimaharaj&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
+  <a href="https://harinepal.com"><img src="https://img.shields.io/badge/harinepal.com-C8FF2E?style=flat-square&logo=google-chrome&logoColor=0B0B0F" alt="Website"/></a>
+  <a href="mailto:hello@digitalxpand.com"><img src="https://img.shields.io/badge/hello@digitalxpand.com-0B0B0F?style=flat-square&logo=maildotru&logoColor=C8FF2E" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=iamharimaharaj&label=views&color=0B0B0F&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### ✦ whoami
 
-- 🌐 I build fast, modern web apps and help brands grow online through **[DigitalXpand](https://harinepal.com)**.
-- 🚀 I work across the stack — **React / Next.js** on the front, **Node & Python** on the back.
-- 📈 I love where **engineering meets marketing**: SEO, performance, and clean UX that converts.
-- 🛠️ Currently building a **CRM** to streamline client and lead management.
-- 💬 Ask me about **web development, SEO, and growing a digital presence**.
-- 📫 Reach me at **hello@digitalxpand.com** or **[harinepal.com](https://harinepal.com)**.
+```js
+const hari = {
+  role:     "Full-Stack Developer & SEO Specialist",
+  company:  "DigitalXpand",
+  location: "Kathmandu, Nepal",
+  building: "a CRM for client & lead management",
+  focus:    ["fast web apps", "search-friendly builds", "UX that converts"],
+  philosophy: "digital solutions that convert for your business",
+};
+```
 
 ---
 
-### 🧰 Tech Stack
+### ✦ Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0F?style=flat-square&logo=javascript&logoColor=C8FF2E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0F?style=flat-square&logo=typescript&logoColor=C8FF2E)
+![Python](https://img.shields.io/badge/Python-0B0B0F?style=flat-square&logo=python&logoColor=C8FF2E)
+![HTML5](https://img.shields.io/badge/HTML5-0B0B0F?style=flat-square&logo=html5&logoColor=C8FF2E)
+![CSS3](https://img.shields.io/badge/CSS3-0B0B0F?style=flat-square&logo=css3&logoColor=C8FF2E)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-0B0B0F?style=flat-square&logo=react&logoColor=C8FF2E)
+![Next.js](https://img.shields.io/badge/Next.js-0B0B0F?style=flat-square&logo=nextdotjs&logoColor=C8FF2E)
+![jQuery](https://img.shields.io/badge/jQuery-0B0B0F?style=flat-square&logo=jquery&logoColor=C8FF2E)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B0B0F?style=flat-square&logo=tailwindcss&logoColor=C8FF2E)
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0B0B0F?style=flat-square&logo=nodedotjs&logoColor=C8FF2E)
+![Express](https://img.shields.io/badge/Express-0B0B0F?style=flat-square&logo=express&logoColor=C8FF2E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0B0F?style=flat-square&logo=postgresql&logoColor=C8FF2E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B0B0F?style=flat-square&logo=mongodb&logoColor=C8FF2E)
 
-**Design, Marketing & Tools**
+**Marketing & Tools**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Built With |
-| :------ | :---------- | :--------- |
-| **[voicescene-pro](https://github.com/iamharimaharaj/voicescene-pro)** | A voice-driven scene experience. | `TypeScript` |
-| **[Neon-text](https://github.com/iamharimaharaj/Neon-text)** | A neon text-box tool — type text and see it rendered as a neon sign. Handy for custom neon-sign businesses. | `CSS` · `jQuery` |
-| **[love-calculator](https://github.com/iamharimaharaj/love-calculator)** | The classic 90's love calculator, rebuilt while learning JavaScript. | `CSS` · `JS` |
+![WordPress](https://img.shields.io/badge/WordPress-0B0B0F?style=flat-square&logo=wordpress&logoColor=C8FF2E)
+![Google Analytics](https://img.shields.io/badge/Analytics-0B0B0F?style=flat-square&logo=googleanalytics&logoColor=C8FF2E)
+![Search Console](https://img.shields.io/badge/SEO-0B0B0F?style=flat-square&logo=googlesearchconsole&logoColor=C8FF2E)
+![Figma](https://img.shields.io/badge/Figma-0B0B0F?style=flat-square&logo=figma&logoColor=C8FF2E)
+![Git](https://img.shields.io/badge/Git-0B0B0F?style=flat-square&logo=git&logoColor=C8FF2E)
 
 ---
 
-### 📊 GitHub Stats
+### ✦ Connect
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamharimaharaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharimaharaj&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<p align="left">
+  <a href="https://harinepal.com"><img src="https://img.shields.io/badge/Website-0B0B0F?style=flat-square&logo=google-chrome&logoColor=C8FF2E" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/harinepal"><img src="https://img.shields.io/badge/LinkedIn-0B0B0F?style=flat-square&logo=linkedin&logoColor=C8FF2E" alt="LinkedIn"/></a>
+  <a href="https://x.com/harinepal"><img src="https://img.shields.io/badge/X-0B0B0F?style=flat-square&logo=x&logoColor=C8FF2E" alt="X"/></a>
+  <a href="mailto:hello@digitalxpand.com"><img src="https://img.shields.io/badge/Email-0B0B0F?style=flat-square&logo=maildotru&logoColor=C8FF2E" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamharimaharaj&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://harinepal.com">
-    <img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harinepal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/harinepal">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:hello@digitalxpand.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center"><i>⚡ Let's build something great — <a href="https://harinepal.com">harinepal.com</a></i></p>
+<sub>Let's build something that converts — <a href="https://harinepal.com">harinepal.com</a></sub>
